@@ -12,7 +12,4 @@ Week6 Project - GAN
 - Loop through a number of epochs to train Discriminator by first selecting a random batch of images from true dataset, generating a set of images from Generator, feeding both set of images into Discriminator, and finally setting the loss parameters for both the real and fake images, as well as the combined loss.
 Train Generator, by setting the input noise and ultimately training the Generator to have the Discriminator label its samples as valid by specifying the gradient loss.
 - Keep track of training process by printing the progress and save the sample image output depending on the epoch interval specified. When the specific sample_interval is hit, call the sample_image function and saves images for viewing
-- Call original GAN class and pass in the expected parameters 
-- Epochs dictate the number of backward and forward propagations
-- Batch_size indicates the number of training samples per backward/forward propagation
-- Sample_interval specifies after how many epochs call sample_image function.
+- Call original GAN class and pass in the expected parameters (Epochs dictate the number of backward and forward propagations, Batch_size indicates the number of training samples per backward/forward propagation, Sample_interval specifies after how many epochs call sample_image function.)
