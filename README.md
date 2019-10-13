@@ -14,18 +14,18 @@ Week6 Project - GAN
 - Keep track of training process by printing the progress and save the sample image output depending on the epoch interval specified. When the specific sample_interval is hit, call the sample_image function and save images for viewing
 - Call original GAN class and pass in the expected parameters
 
-<img src="Figure_1.png" width=1000><br>
-<img src="Figure_2.png" width=1000><br>
-<img src="Figure_3.png" width=1000><br>
-<img src="Figure_4.png" width=1000><br>
-<img src="Figure_5.png" width=1000><br>
-<img src="Figure|_6.png" width=1000><br>
-<img src="Figure_7.png" width=1000><br>
-<img src="Figure_8.png" width=1000><br>
-<img src="Figure_9.png" width=1000><br>
-<img src="Figure_10.png" width=1000><br>
-<img src="Figure_11.png" width=1000><br>
-<img src="Figure_12.png" width=1000><br>
-<img src="Figure_13.png" width=1000><br>
-<img src="Figure_14.png" width=1000><br>
-<img src="Figure_15.png" width=1000><br>
+<img src="Figure_1.png" width=1000>
+<img src="Figure_2.png" width=1000>
+<img src="Figure_3.png" width=1000>
+<img src="Figure_4.png" width=1000>
+<img src="Figure_5.png" width=1000>
+<img src="Figure|_6.png" width=1000>
+<img src="Figure_7.png" width=1000>
+<img src="Figure_8.png" width=1000>
+<img src="Figure_9.png" width=1000>
+<img src="Figure_10.png" width=1000>
+<img src="Figure_11.png" width=1000>
+<img src="Figure_12.png" width=1000>
+<img src="Figure_13.png" width=1000>
+<img src="Figure_14.png" width=1000>
+<img src="Figure_15.png" width=1000>
