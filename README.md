@@ -13,3 +13,19 @@ Week6 Project - GAN
 - Train Generator, by setting the input noise and ultimately training the Generator to have the Discriminator label its samples as valid by specifying the gradient loss.
 - Keep track of training process by printing the progress and save the sample image output depending on the epoch interval specified. When the specific sample_interval is hit, call the sample_image function and save images for viewing
 - Call original GAN class and pass in the expected parameters
+
+<img src="Figure-1.png" width=1000><br><br>
+<img src="Figure-2.png" width=1000><br><br>
+<img src="Figure-3.png" width=1000><br><br>
+<img src="Figure-4.png" width=1000><br><br>
+<img src="Figure-5.png" width=1000><br><br>
+<img src="Figure-6.png" width=1000><br><br>
+<img src="Figure-7.png" width=1000><br><br>
+<img src="Figure-8.png" width=1000><br><br>
+<img src="Figure-9.png" width=1000><br><br>
+<img src="Figure-10.png" width=1000><br><br>
+<img src="Figure-11.png" width=1000><br><br>
+<img src="Figure-12.png" width=1000><br><br>
+<img src="Figure-13.png" width=1000><br><br>
+<img src="Figure-14.png" width=1000><br><br>
+<img src="Figure-15.png" width=1000><br><br>
