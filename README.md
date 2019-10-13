@@ -10,6 +10,6 @@ Week6 Project - GAN
 - Build Discriminator through Sequential model layer by layer (Flatten, Dense, ReLU, Activation Sigmoid) and reshape; Print Model Summary; Given an input image from generator, the Discriminator outputs the likelihood of the image being real or not
 - Pit the two models (Generator and Discriminator) against each other by defining a training function, loading the data set, re-scaling training images and setting the ground truths.
 - Loop through a number of epochs to train Discriminator by first selecting a random batch of images from true dataset, generating a set of images from Generator, feeding both set of images into Discriminator, and finally setting the loss parameters for both the real and fake images, as well as the combined loss.<br>
-Train Generator, by setting the input noise and ultimately training the Generator to have the Discriminator label its samples as valid by specifying the gradient loss.
+- Train Generator, by setting the input noise and ultimately training the Generator to have the Discriminator label its samples as valid by specifying the gradient loss.
 - Keep track of training process by printing the progress and save the sample image output depending on the epoch interval specified. When the specific sample_interval is hit, call the sample_image function and save images for viewing
 - Call original GAN class and pass in the expected parameters
